@@ -25,7 +25,7 @@ on:
       uses: 
       docker/metadata-action@98669ae865ea3cffbcbaa878cf57c20bbf1c6c38       
       with:         
-      images: adamghi21/bflp-ci-cd     
+      images: adamghi21/bflp-ci-cd
       
       - name: Build and push Docker images      
       uses: 
